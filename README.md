@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rahulya7569@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dn5QJa4hQeOA1gyShvzw4RY6-9t6BIV4/view?usp=drivesdk](https://drive.google.com/file/d/1BJ7WABB7g2U_1eIjHP0uhZTa2L7FyIvP/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Dn5QJa4hQeOA1gyShvzw4RY6-9t6BIV4/view)
 
 - ⚡ Fun fact **I do use Stack Overflow**
 
