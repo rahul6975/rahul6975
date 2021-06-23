@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Android Development, Java, Kotlin, DBMS**
 
-- 👨‍💻 All of my projects are available at [https://rahul6975.github.io/#/](https://rahul6975.github.io/#/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rahul6975.github.io/#/)
 
-- 📝 I regularly write articles on [https://rahulrockin.medium.com](https://rahulrockin.medium.com)
+- 📝 I regularly write articles on [Medium](https://rahulrockin.medium.com)
 
 - 💬 Ask me about **Java, Android Development, Kotlin, DBMS, C++, Python**
 
 - 📫 How to reach me **rahulya7569@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Dn5QJa4hQeOA1gyShvzw4RY6-9t6BIV4/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Dn5QJa4hQeOA1gyShvzw4RY6-9t6BIV4/view)
 
 - ⚡ Fun fact **I do use Stack Overflow**
 
