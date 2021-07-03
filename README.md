@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🌱 I’m skilled in **Android Development, Java, Kotlin, DBMS**
+- 🌱 I’m skilled in **Android Development, Java, Kotlin, Flutter, DBMS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rahul6975.github.io/#/)
 
