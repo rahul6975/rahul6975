@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul6975&label=Profile%20views&color=0e75b6&style=flat" alt="rahul6975" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/odmqozPudZor6yF3VK/giphy.gif">
+
+
 - 🌱 I’m skilled in **Android Development, Java, Kotlin, Flutter, DBMS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rahul6975.github.io/#/)
@@ -34,6 +39,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul6975&" alt="rahul6975" /></p>
 
 <br/>
+
 <br/>
 
 <a href="https://github.com/rahul6975/github-readme-activity-graph"><img alt="Rahul Yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahul6975&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
