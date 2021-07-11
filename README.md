@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rahul6975.github.io/#/)
 
-- 📝 I regularly write articles on [Medium](https://rahulrockin.medium.com)
+- 📝 I also write articles on [Medium](https://rahulrockin.medium.com)
 
 - 💬 Ask me about **Java, Android Development, Kotlin, DBMS, C++, Python**
 
