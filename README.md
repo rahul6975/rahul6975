@@ -12,7 +12,7 @@
 
 - 📝 I also write articles on [Medium](https://rahulrockin.medium.com)
 
-- 💬 Ask me about **Java, Android Development, Kotlin, DBMS, C++, Python**
+- 💬 Ask me about **Java, Android Development, Kotlin, DBMS, C++, Python, Data Structure and Algorithms**
 
 - 📫 How to reach me **rahulya7569@gmail.com**
 
