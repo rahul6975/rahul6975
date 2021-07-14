@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">An Enthusiastic Android developer from India</h3>
+<h3 align="center">An Enthusiastic Application Developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul6975&label=Profile%20views&color=0e75b6&style=flat" alt="rahul6975" /> </p>
@@ -12,7 +12,7 @@
 
 - 📝 I also write articles on [Medium](https://rahulrockin.medium.com)
 
-- 💬 Ask me about **Java, Android Development, Kotlin, DBMS, Data Structure and Algorithms**
+- 💬 Ask me about **Java, App Development, Kotlin, DBMS, Data Structure and Algorithms**
 
 - 📫 How to reach me **rahulya7569@gmail.com**
 
