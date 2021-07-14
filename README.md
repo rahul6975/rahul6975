@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/odmqozPudZor6yF3VK/giphy.gif">
 
 
-- 🌱 I’m skilled in **Android Development, Java, Kotlin, Flutter, DBMS**
+- 🌱 I’m skilled in **App Development, Java, Kotlin, Flutter, DBMS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rahul6975.github.io/#/)
 
