@@ -18,8 +18,6 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Dn5QJa4hQeOA1gyShvzw4RY6-9t6BIV4/view)
 
-- ⚡ Fun fact **I do use Stack Overflow**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul6975" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul6975" height="30" width="40" /></a>
